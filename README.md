@@ -14,6 +14,12 @@ This repository provides the **full LLM prompts** used in the PRECEDE pipeline.
 
 ---
 
+<p align="center">
+  <img src="assets/PRECEDE.png" alt="PRECEDE pipeline overview" width="100%">
+</p>
+
+---
+
 ## Pipeline
 
 ```
