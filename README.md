@@ -100,16 +100,3 @@ drug: {drug}
 adverse effect: {side_effect}
 verify_association result: {associated, n_sources, sources, matched_terms}
 ```
-
----
-
-## Citation
-
-```bibtex
-@inproceedings{kim2026precede,
-  title     = {A Precedent-Guided Co-Scientist for Side-Effect-Aware Drug Redesign},
-  author    = {Kim, Yujin and Hong, Charmgil},
-  booktitle = {ICML 2026 Workshop on AI for Science},
-  year      = {2026}
-}
-```
